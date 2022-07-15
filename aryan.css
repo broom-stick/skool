@@ -19,5 +19,16 @@ body {
     font-weight: bold;
 }
 .list-wrap {
-    background-color: aliceblue;
+    padding-top: 30px;
+    width: 500px;
+    text-align: center;
+    font-size: 15px;
+}
+.list {
+    padding-top: 10px;
+}
+.list a {
+    color: #B97A95;
+    text-decoration: none;
+    font-family: 'Press Start 2P', cursive;
 }
