@@ -24,6 +24,7 @@ body {
 }
 .pix ul {
     padding-top: 50px;
+    padding-right: 50px;
 }
 .pix ul a {
     text-decoration: none;
