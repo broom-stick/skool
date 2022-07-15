@@ -1,0 +1,23 @@
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css');
+
+html,
+body {
+  background-color: #11324D;
+}
+.parent {
+    padding-top: 50px;
+}
+.nav ul {
+    border-style: dashed;
+    color: antiquewhite;
+}
+.nav ul a {
+    text-decoration: none;
+    color: beige;
+    padding-right: 40px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.list-wrap {
+    background-color: aliceblue;
+}
